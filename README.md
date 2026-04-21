@@ -10,7 +10,7 @@ FilmKatalog je jednostavna web stranica koja omogućuje pregled popularnih filmo
 - kontakt.html - Kontakt forma za korisnike  
 
 ## Kako pokrenuti
-Otvori `index.html` u browseru ili koristi Live Server u Visual Studio Code za bolji pregled promjena u realnom vremenu.
+Otvori `superlative-cocada-d53119.netlify.app` u browseru ili koristi Live Server u Visual Studio Codeu.
 
 ## Tehnologije
 HTML5, CSS 
